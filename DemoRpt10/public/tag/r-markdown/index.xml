@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on Fan Ren Academic Website</title>
+    <link>http://localhost:1313/tag/r-markdown/</link>
+    <description>Recent content in R Markdown on Fan Ren Academic Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2024 14:36:39 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Resume Page</title>
+      <link>http://localhost:1313/authors/my-resume-page/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/my-resume-page/</guid>
+      <description>&lt;h1 id=&#34;you-can-download-fan-ren-resume-a-hrefhttpswwwyahoocomherea&#34;&gt;You can download Fan Ren resume &lt;a href=&#34;https://www.yahoo.com&#34;&gt;here&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://localhost:1313/2020/12/01/hello-r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:1313/2020/12/01/hello-r-markdown/</guid>
+      <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

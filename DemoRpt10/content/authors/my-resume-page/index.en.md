@@ -1,0 +1,23 @@
+---
+title: My Resume Page
+author: Fan Ren
+date: '2024-03-24'
+slug: my-resume-page
+categories:
+  - Demo
+  - R
+tags:
+  - Academic
+  - R Markdown
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2024-03-24T14:36:39-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+# You can download Fan Ren resume <a href="https://www.yahoo.com">here</a>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan Ren Academic Website</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content on Fan Ren Academic Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>吳恩達</title>
+      <link>http://localhost:1313/authors/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/%E5%90%B3%E6%81%A9%E9%81%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>基于Blogdown以及Hugo技术生成的博客</title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Fan Ren is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&#xA;{style=&amp;ldquo;text-align: justify;&amp;rdquo;}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robert Ford</title>
+      <link>http://localhost:1313/authors/robert-ford/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

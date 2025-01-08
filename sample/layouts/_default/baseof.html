@@ -1,0 +1,28 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+</head>
+<body>
+    {{ partial "header" . }}
+    <h1>Base of layout</h1>
+    <h2>Top of BaseOf</h2>
+    <hr />
+    {{ block "header" . }}
+        Put your header here...
+    {{ end }}
+    <hr />
+    {{ block "main" . }}
+
+    {{ end }}
+    <hr />
+    {{ block "footer" . }}
+        Put your footer here...
+    {{ end }}
+    <hr />
+    {{ partial "footer" (dict "myFooterLabel" "This Is My Footer in Partials" "myFooterDate" "2025-01-07")}}
+    <h2>Bottom of BaseOf</h2>
+</body>
+</html>

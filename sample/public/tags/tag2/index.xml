@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2025 16:09:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G</title>
+      <link>http://localhost:1313/dir1/dir12/g/</link>
+      <pubDate>Mon, 06 Jan 2025 16:09:57 -0500</pubDate>
+      <guid>http://localhost:1313/dir1/dir12/g/</guid>
+      <description>&lt;p&gt;This is single page g.md under dir12 directory!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>E</title>
+      <link>http://localhost:1313/dir2/e/</link>
+      <pubDate>Mon, 06 Jan 2025 12:15:57 -0500</pubDate>
+      <guid>http://localhost:1313/dir2/e/</guid>
+      <description>&lt;p&gt;This is single page e.md under dir2 directory!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>B</title>
+      <link>http://localhost:1313/b/</link>
+      <pubDate>Mon, 06 Jan 2025 11:56:53 -0500</pubDate>
+      <guid>http://localhost:1313/b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A</title>
+      <link>http://localhost:1313/a/</link>
+      <pubDate>Mon, 06 Jan 2025 11:56:46 -0500</pubDate>
+      <guid>http://localhost:1313/a/</guid>
+      <description>&lt;p&gt;This is a.md file in content root!&lt;/p&gt;&#xA;&lt;p style=&#34;background-color:lightblue;&#34;&gt;&#xA;    This Is My ShortCode Inner Text!!!&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;background-color:lightblue;&#34;&gt;&#xA;&lt;pre&gt;&lt;code&gt;**This Is My Another ShortCode Inner Text with Indexed Parameter!!!**&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;/div&gt;&#xA;&lt;p style=&#34;background-color:red;&#34;&gt;Stuff to `process` in the *center*.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This Is My Another ShortCode Inner Text with Indexed Parameter!!!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

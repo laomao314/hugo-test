@@ -1,0 +1,30 @@
+{{ define "main"}}
+ <h1>Single Page Template under root layout!</h1>
+ {{ $myTitle := .Title }}
+ {{ .Content }}
+ {{ range .Site.Pages }}
+    <li><a href="{{.RelPermalink}}" style="{{if eq $myTitle .Title}} background-color: yellow;{{end}}">{{.Title}}</a></li>
+ {{ end }}
+{{ end }}
+
+{{ define "header"}}
+ <h2>This is my single page header</h1>
+    <!--NOTE: colon sign for assignment!!!-->
+    {{ $myVar2 := 2}}
+    My Parameters go here... <br />
+    {{.Params.myVar}} <br />
+    {{$myVar2}}
+{{ end }}
+
+{{ define "footer"}}
+ <h2>This is my single page footer</h1>
+    {{$myStates:=.Site.Data.states}}
+    Alabama data:
+    name: {{$myStates.AL.name}}
+    captial: {{$myStates.AL.capital}}
+    <br />
+    loop all the states:
+    {{ range $myStates}}
+        {{.name}}({{.key}}) / 
+    {{ end }}
+{{ end }}

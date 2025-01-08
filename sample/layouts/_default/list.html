@@ -1,0 +1,25 @@
+{{ define "main"}}
+{{ $myHeading := "List Page Template under root layout!"}}
+ <h1>{{$myHeading}}</h1>
+ Calling "truncate" function: {{ truncate 10 $myHeading}} <br />
+ Using operator in condition: <br />
+ {{ $num1 := 1 }}
+ {{ $num2 := 2 }}
+ {{ $num3 := 3 }}
+
+ {{ if eq $num1 $num2}}
+    {{$num1}} is equaling to {{$num2}}
+ {{ else }}
+    {{$num1}} is NOT equaling to {{$num2}}
+ {{ end }}
+ <br />
+ {{ if and (lt $num1 $num2) (lt $num2 $num3)}}
+    {{$num1}} < {{$num2}} < {{$num3}}
+ {{ else }}   
+    {{$num1}} ? {{$num2}} ? {{$num3}}
+ {{ end}}
+ <br />
+ {{ range .Pages}}
+    {{ .Title}} 
+ {{ end }}
+{{ end }}

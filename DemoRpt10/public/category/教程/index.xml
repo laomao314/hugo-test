@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on Fan Ren Academic Website</title>
+    <link>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on Fan Ren Academic Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>http://localhost:1313/2020/12/13/welcome-to-hugo-blox-builder-the-website-builder-for-hugo/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2020/12/13/welcome-to-hugo-blox-builder-the-website-builder-for-hugo/</guid>
+      <description>Welcome 👋 We know that first impressions are important, so we&amp;rsquo;ve populated your new site with some initial content to help you get familiar with everything in no time.</description>
+    </item>
+  </channel>
+</rss>
